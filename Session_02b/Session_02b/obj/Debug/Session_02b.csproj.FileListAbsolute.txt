@@ -1,0 +1,6 @@
+/Users/joangeo24/Projects/Session_02b/Session_02b/bin/Debug/Session_02b.exe
+/Users/joangeo24/Projects/Session_02b/Session_02b/bin/Debug/Session_02b.pdb
+/Users/joangeo24/Projects/Session_02b/Session_02b/obj/Debug/Session_02b.csproj.AssemblyReference.cache
+/Users/joangeo24/Projects/Session_02b/Session_02b/obj/Debug/Session_02b.csproj.CoreCompileInputs.cache
+/Users/joangeo24/Projects/Session_02b/Session_02b/obj/Debug/Session_02b.exe
+/Users/joangeo24/Projects/Session_02b/Session_02b/obj/Debug/Session_02b.pdb

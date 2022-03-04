@@ -1,0 +1,15 @@
+C:\Users\vasil\source\repos\Session04\Session04\obj\Debug\net6.0\Session04.csproj.AssemblyReference.cache
+C:\Users\vasil\source\repos\Session04\Session04\obj\Debug\net6.0\Session04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasil\source\repos\Session04\Session04\obj\Debug\net6.0\Session04.AssemblyInfoInputs.cache
+C:\Users\vasil\source\repos\Session04\Session04\obj\Debug\net6.0\Session04.AssemblyInfo.cs
+C:\Users\vasil\source\repos\Session04\Session04\obj\Debug\net6.0\Session04.csproj.CoreCompileInputs.cache
+C:\Users\vasil\source\repos\Session04\Session04\bin\Debug\net6.0\Session04.exe
+C:\Users\vasil\source\repos\Session04\Session04\bin\Debug\net6.0\Session04.deps.json
+C:\Users\vasil\source\repos\Session04\Session04\bin\Debug\net6.0\Session04.runtimeconfig.json
+C:\Users\vasil\source\repos\Session04\Session04\bin\Debug\net6.0\Session04.dll
+C:\Users\vasil\source\repos\Session04\Session04\bin\Debug\net6.0\Session04.pdb
+C:\Users\vasil\source\repos\Session04\Session04\obj\Debug\net6.0\Session04.dll
+C:\Users\vasil\source\repos\Session04\Session04\obj\Debug\net6.0\refint\Session04.dll
+C:\Users\vasil\source\repos\Session04\Session04\obj\Debug\net6.0\Session04.pdb
+C:\Users\vasil\source\repos\Session04\Session04\obj\Debug\net6.0\Session04.genruntimeconfig.cache
+C:\Users\vasil\source\repos\Session04\Session04\obj\Debug\net6.0\ref\Session04.dll
