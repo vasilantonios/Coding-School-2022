@@ -37,9 +37,14 @@ c4.MultArrays(Array1, Array2);
 
 int[] Array5 = { 0, -2, 1, 20, -31, 50, -4, 17, 89, 100 };
 
-var c5 = new ex_5();
+var c5a = new ex_5();
+var c5b = new ex_5();
+//var c5c = new ex_5();
+Console.WriteLine("ex 5  1st way: ");
+c5a.revarrays_1(Array5);
+//c5c.printArray(Array5); 
 
-c5.revarrays(Array5);
+c5b.revarrays_2(Array5);
 
 
 
