@@ -46,6 +46,8 @@ c5a.revarrays_1(Array5);
 
 c5b.revarrays_2(Array5);
 
+//TODO rewrite ex_5
+
 
 
 
